@@ -4,6 +4,7 @@
 <use name=DataFormats/PatCandidates>
 <use name=DataFormats/Common>
 <use name=AnalysisDataFormats/Egamma>
+<use name=CommonTools/UtilAlgos>
 <use name=PhysicsTools/UtilAlgos>
 <use name=RecoEcal/EgammaCoreTools>
 <use name=Geometry/EcalAlgo>
