@@ -10,6 +10,8 @@
 <use   name="MagneticField/Records"/>
 <use   name="MagneticField/Engine"/>
 <use   name="RecoEgamma/EgammaTools"/>
+<use   name="RecoEcal/EgammaCoreTools"/>
+<use   name="RecoLocalCalo/EcalRecAlgos"/>
 <use   name="HLTrigger/HLTcore"/>
 <use   name="root"/>
 <use   name="rootmath"/>
